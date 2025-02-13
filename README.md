@@ -1,6 +1,7 @@
 # PRINTF_100%
-ft_printf
+Ft_printf
 Because ft_putnbr() and ft_putstr() aren’t enough
+
 The goal of this project is pretty straightforward. You will recode printf().
 You will discover variadic functions in C.
 The key to a successful ft_printf is a well-structured and extensible code.
