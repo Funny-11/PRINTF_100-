@@ -18,6 +18,7 @@ The prototype of ft_printf() is:
 int  ft_printf(const char *, ...);
 
 Here are the requirements:
+
 • Don’t implement the buffer management of the original printf().
 • Your function has to handle the following conversions: cspdiuxX%
 • Your function will be compared against the original printf().
@@ -26,6 +27,7 @@ Here are the requirements:
 • Your libftprintf.a has to be created at the root of your repository.
 
 You have to implement the following conversions:
+
 • %c Prints a single character.
 • %s Prints a string (as defined by the common C convention).
 • %p The void * pointer argument has to be printed in hexadecimal format.
